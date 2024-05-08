@@ -7,6 +7,3 @@
 <h2> 🌐 Networking Projects </h2>
 -  [DNS Update via Python](https://github.com/AshDestroyum/dns_update)
 
-
-
-<!--
