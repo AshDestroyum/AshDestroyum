@@ -6,5 +6,5 @@
 
 <h2> 🌐 Networking Projects </h2>
 
-- [DNS Update via Python](https://github.com/AshDestroyum/dns_update)
+- [Primary DNS Update via Python (Windows)](https://github.com/AshDestroyum/dns_update)
 
